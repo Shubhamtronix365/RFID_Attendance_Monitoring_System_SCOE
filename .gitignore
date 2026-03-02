@@ -1,0 +1,16 @@
+# Directories
+.vscode/
+.idea/
+*.log
+*.tmp
+*.bak
+
+# XAMPP / Environmental
+config.php
+# connectDB.php
+
+# PHP / Web
+node_modules/
+vendor/
+.DS_Store
+Thumbs.db
